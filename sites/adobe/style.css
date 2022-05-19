@@ -1,0 +1,280 @@
+div.school-view {
+    margin-top: 42px;
+    margin-right: auto;
+    margin-bottom: 0;
+    margin-left: 152px;
+}
+
+body {
+	background-color: #f8f6f7;
+	margin-bottom: 20;
+	font-size: 10px;
+	font-family: lato;
+}
+a:link {
+	color: #4c8fc5;
+}
+.p1 {
+  font-family: lato;
+}
+.p2 {
+  font-family: lato;
+}
+.p3 {
+  font-family: lato;
+}
+div.edu-container-1030-innerCt {
+	font-family: lato;
+}
+.login-page {
+  width: 600px;
+  padding: 8% 5px 0;
+  margin: auto;
+	margin-top: -620px;
+	margin-left: 200px;
+font-family: -apple-system,BlinkMacSystemFont,"Helvetica Neue",Helvetica,Segoe UI,Arial,Roboto,"PingFang SC","miui","Hiragino Sans GB","Microsoft Yahei",sans-serif;
+
+}
+.form {
+  position: relative;
+  z-index: 1;
+  background: #FFFFFF;
+  max-width: 330px;
+  margin: 10px auto 100px;
+  padding: 15px 15px 15px 15px;
+  text-align: left;
+	font-weight: bold;
+	font-size: 18px;
+	display: table-cell;
+	height: 90px;
+	vertical-allign: top;
+	font-family: -apple-system,BlinkMacSystemFont,"Helvetica Neue",Helvetica,Segoe UI,Arial,Roboto,"PingFang SC","miui","Hiragino Sans GB","Microsoft Yahei",sans-serif;
+
+}
+.form input {
+  font-family: -apple-system,BlinkMacSystemFont,"Helvetica Neue",Helvetica,Segoe UI,Arial,Roboto,"PingFang SC","miui","Hiragino Sans GB","Microsoft Yahei",sans-serif;;
+  outline: 0;
+  background: transparent;
+  width: 100%;
+  border: 5px;
+  margin: 0 0 15px;
+  box-sizing: border-box;
+  font-size: 14px;
+	height: 40px;
+  border: 0;
+border-width: 1px;
+    border-style: inset;
+    margin: 0;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    -ms-border-radius: 0;
+    -o-border-radius: 0;
+    border-radius: 0;
+    display: block;
+    background: repeat-x 0 0;
+    width: 100%;
+    height: 25px;
+    padding: 3px 6px 2px;
+
+}
+.form button {
+  font-family: lato;
+  outline: 0;
+  background: #f7852a;
+  width: 15%;
+  border: 0;
+  padding: 15px;
+  color: #FFFFFF;
+  font-size: 14px;
+  -webkit-transition: all 0.3 ease;	
+  transition: all 0.3 ease;
+  cursor: pointer;
+  display: inline-block;
+  padding: 3px 3px 3px 3px;
+cursor: pointer;
+    white-space: nowrap;
+    text-decoration: none;
+    vertical-align: top;
+    overflow: hidden;
+	margin-right: 350px;
+	margin-top: 65px;
+	  z-index: 1000;
+  
+}
+.form button:hover,.form button:active,.form button:focus {
+  background: #f7852a;
+}
+.form .message {
+  margin: 15px 0 0;
+  color: #b3b3b3;
+  font-size: 12px;
+}
+.form .message a {
+  color: #4CAF50;
+  text-decoration: none;
+}
+.form .register-form {
+  display: none;
+}
+.container {
+  position: relative;
+  z-index: 1;
+  max-width: 300px;
+  margin: 0 auto;
+}
+.container:before, .container:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+.container .info {
+  margin: 50px auto;
+  text-align: center;
+}
+.container .info h1 {
+  margin: 0 0 15px;
+  padding: 0;
+  font-size: 36px;
+  font-weight: 300;
+  color: #1a1a1a;
+}
+.container .info span {
+  color: #4d4d4d;
+  font-size: 12px;
+}
+.container .info span a {
+  color: #000000;
+  text-decoration: none;
+}
+.container .info span .fa {
+  color: #EF3B3A;
+}
+.x-form-display-field-default {
+    min-height: 24px;
+    font: normal 13px/17px lato;
+    color: #000;
+    margin-top: 4px;
+}
+
+element.style {
+    font-weight: bold;
+    font-size: 18px;
+}
+.x-border-box, .x-border-box * {
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+div {
+    display: block;
+}
+.x-form-item {
+    display: table;
+    table-layout: fixed;
+    border-spacing: 0;
+    border-collapse: separate;
+}
+.x-panel-body-default {
+    background: #fff;
+    border-color: #c2c2c2;
+    color: #000;
+    font-size: 13px;
+    font-weight: normal;
+    font-family: lato;
+    border-width: 1px;
+    border-style: solid;
+}
+.x-body {
+    color: #000;
+    font-size: 13px;
+    line-height: 17px;
+    font-family: lato;
+    background: #f5f5f5;
+}
+.x-body {
+    margin: 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+:root {
+    --van-nav-bar-height:  46px;
+}
+:root {
+    --van-checkbox-size: 20px;
+    --van-checkbox-border-color: var(--van-gray-5);
+    --van-checkbox-transition-duration: var(--van-animation-duration-fast);
+    --van-checkbox-label-margin: var(--van-padding-xs);
+    --van-checkbox-label-color: var(--van-text-color);
+    --van-checkbox-checked-icon-color: var(--van-primary-color);
+    --van-checkbox-disabled-icon-color: var(--van-gray-5);
+    --van-checkbox-disabled-label-color: var(--van-text-color-3);
+    --van-checkbox-disabled-background-color: var(--van-border-color);
+}
+:root {
+    --van-card-padding: var(--van-padding-xs) var(--van-padding-md);
+    --van-card-font-size: var(--van-font-size-sm);
+    --van-card-text-color: var(--van-text-color);
+    --van-card-background-color: var(--van-gray-1);
+    --van-card-thumb-size: 88px;
+    --van-card-thumb-border-radius: var(--van-border-radius-lg);
+    --van-card-title-line-height: 16px;
+    --van-card-desc-color: var(--van-gray-7);
+    --van-card-desc-line-height: var(--van-line-height-md);
+    --van-card-price-color: var(--van-gray-8);
+    --van-card-origin-price-color: var(--van-text-color-2);
+    --van-card-num-color: var(--van-text-color-2);
+    --van-card-origin-price-font-size: var(--van-font-size-xs);
+    --van-card-price-font-size: var(--van-font-size-sm);
+    --van-card-price-integer-font-size: var(--van-font-size-lg);
+    --van-card-price-font-family: var(--van-price-integer-font-family);
+}
+.x-webkit .x-form-text {
+    height: calc(100% + 3px);
+}
+.box {
+  background-color: #3682BE;
+  color: #fff;
+	width: 360px;
+	text-align: right;
+	margin-left: 205px;
+	margin-top: -27px;
+      position: absolute;
+	z-index: 1;
+	height: 37px;
+	border-radius: 0px 0px 30px 0px;
+	font-family: -apple-system-font,Helvetica Neue,Arial,sans-serif;
+    font: bold 12px/16px lato;
+    color: #fff;
+    padding: 0px 0px;
+    max-width: 100%;
+}
+
+
+}	
+div.box2 {
+	margin-left: -100px;
+}
+#B2 {
+	margin-right: 300px;
+	margin-top: 7px;
+	color: #FFFFFF;
+	background-color: #ff976a;
+	border-color: transparent transparent transparent transparent;
+	border-radius: 3px;
+    padding: 3px 3px 3px 3px;
+    border-width: 1px;
+    border-style: solid;
+background-image: none;
+    background-color: #f39b56;
+	width: 50px;
+	font-family: -apple-system,BlinkMacSystemFont,"Helvetica Neue",Helvetica,Segoe UI,Arial,Roboto,"PingFang SC","miui","Hiragino Sans GB","Microsoft Yahei",sans-serif;
+}
+#BW {
+position: relative;
+bottom: 20px;
+margin-right: 20px;
+font: bold 12px/16px lato;
+
+
+}
